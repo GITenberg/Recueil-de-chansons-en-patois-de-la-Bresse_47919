@@ -1,0 +1,22 @@
+_repo: Recueil-de-chansons-en-patois-de-la-Bresse_47919
+creator:
+  author:
+    agent_name: Gelière, P. C. de la
+    gutenberg_agent_id: '44523'
+    url: http://www.gutenberg.org/2009/agents/44523
+description: ''
+gutenberg_bookshelf:
+- FR Peuples et Sociétés
+- FR Chansons
+gutenberg_issued: '2015-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47919'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French language -- Dialects -- France -- Bresse (Region)'
+title: Recueil de chansons en patois de la Bresse
+url: http://www.gutenberg.org/ebooks/47919
