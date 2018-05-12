@@ -1,10 +1,16 @@
 _repo: Recueil-de-chansons-en-patois-de-la-Bresse_47919
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47919-h/images/cover.jpg
 creator:
   author:
     agent_name: Gelière, P. C. de la
     gutenberg_agent_id: '44523'
     url: http://www.gutenberg.org/2009/agents/44523
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47919#Recueil-de-chansons-en-patois-de-la-Bresse
 gutenberg_bookshelf:
 - FR Peuples et Sociétés
 - FR Chansons
